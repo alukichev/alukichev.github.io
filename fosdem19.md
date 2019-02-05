@@ -56,7 +56,7 @@ That concluded my second day at this edition of FOSDEM. A few takeaways I gather
 as well as tools:
 
 * electronic circuit simulator [ngspice](http://ngspice.sourceforge.net/);
-* schematics capture and PCB layout suite [KiCAD](http://kicad-pcb.org/);
+* schematics capture and PCB layout suite [KiCAD](http://www.kicad-pcb.org/);
 * mechanics design tools LibreCAD, OpenSCAD, FreeCAD, QCAD, Blender;
 
 and various popular off-the-shelf components, like a very cheap and powerful WiFi module [ESP8266](https://www.espressif.com/en/products/hardware/esp8266ex/overview). Also I got some material ones like a free 9,5% vol. beer (unthinkable as a give-away in Finland!) from WolfSSL guys, an OpenSUSE beer and a number of geeky t-shirts.
