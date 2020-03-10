@@ -1,6 +1,7 @@
 # Notes on technical matters
 ## Table of Contents
 1. [My visit to FOSDEM19](fosdem19.md)
+1. [My visit to FOSDEM20](fosdem20.md)
 
 The contents of this blog are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0).
 
