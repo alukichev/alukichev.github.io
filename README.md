@@ -1,5 +1,6 @@
 # Notes on technical matters
 ## Table of Contents
+1. [My visit to FOSDEM26](fosdem26.md).
 1. [Pageant and the three SSH clients](pageant.md), 4.01.2026.
 1. [My visit to FOSDEM20](fosdem20.md).
 1. [My visit to FOSDEM19](fosdem19.md).
